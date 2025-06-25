@@ -1,0 +1,9 @@
+spacy>=3.0.0
+scikit-learn
+numpy
+requests
+beautifulsoup4
+python-docx
+PyPDF2
+transformers>=4.0.0
+sentence-transformers
